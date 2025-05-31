@@ -1,0 +1,4 @@
+This project is made using SpringBoot and language is Java.
+So in this project we are using MYSQL databases in this project.
+You can add ,toogle and delete your task as per you completed ,it will show to the database.
+It's helpful by this we remember the task which we want to complete.
